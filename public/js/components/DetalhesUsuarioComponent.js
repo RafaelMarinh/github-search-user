@@ -48,7 +48,7 @@ class DetalhesUsuarioComponent {
                             </li>
                             <li class="card-list-item">
                                 <span class="text-muted">Número de seguidores: </span>
-                                <span id="following">${ usuario.following }</span>:
+                                <span id="following">${ usuario.following }</span>
                             </li>
                             <li class="card-list-item">
                                 <span class="text-muted">Número de seguidos: </span>
