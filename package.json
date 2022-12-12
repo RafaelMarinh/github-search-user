@@ -10,7 +10,7 @@
   "author": "Rafael Marinho",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "package-name": "^0.1.0"
   },
   "devDependencies": {
